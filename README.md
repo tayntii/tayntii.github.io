@@ -2,9 +2,9 @@
 
 Мои домашние задания
 
-[Lesson_4](https://tayntii.github.io/lesson_4/src/ Html-book) - work with references
+[Lesson_4](https://tayntii.github.io/lesson_4/src/ "Html-book") - work with references
 
-[Lesson_5](https://tayntii.github.io/lesson_5/ Html+css book) - added styles
+[Lesson_5](https://tayntii.github.io/lesson_5/ "Html+css book") - added styles
 
 [Lesson_7](https://tayntii.github.io/lesson_7/) - first experience HTML+CSS from psd-layout
 
