@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+}
+
+img {
+	margin-bottom: 30px;
+}
+
+.header {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 36px;
+	margin-top: 139px;
+}
+
+.block {
+	margin-top: 110px;
+	text-align: center;
+}
+
+.text-adv {
+	font-size: 18px;
+}
+
+.image {
+	display: inline-block;
+	height: 145px;
+	width: 135px;
+	text-align: center;
+}
